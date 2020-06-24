@@ -1,0 +1,20 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 2px;
+}
+.headerMenu a {
+  display: inline-block;
+  margin: 0px 10px;
+  text-decoration: none;
+  color: #565673;
+  font-size: 18px;
+  letter-spacing: 1.2px;
+}
+.headerMenu a:hover {
+  color: #5f9ea0;
+  transform: scale(1.05);
+}
+.search img {
+  padding-left: 0.3cm;
+}

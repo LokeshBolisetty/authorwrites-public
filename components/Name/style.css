@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap");
+
+.logo {
+  font-family: "Dancing Script", cursive;
+  font-size: 130px;
+  text-align: center;
+  background-image: url("../../Images/Wood\ Background.jfif");
+  background-color: white;
+  background-repeat: none;
+  background-size: contain;
+  justify-content: center;
+  line-height: inherit;
+  min-height: 15cm;
+  margin: 10px 10px;
+  padding: 40px 42px;
+}
+.logo p {
+  display: inline-block;
+  padding-top: 4cm;
+}
+
+@media only screen and (max-width: 600px) {
+  .logo p {
+    font-size: 80px;
+    background-repeat: none;
+  }
+}

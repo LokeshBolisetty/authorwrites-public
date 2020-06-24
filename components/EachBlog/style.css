@@ -1,0 +1,19 @@
+.card {
+  text-align: center;
+  margin: 20px 5px;
+  min-height: 4cm;
+  border: black 2px solid;
+}
+.btn {
+  justify-content: space-around;
+}
+ul.namingit {
+  list-style-type: decimal;
+  text-align: left;
+  padding-left: 10%;
+  padding-top: 10px;
+}
+.badge {
+  width: fit-content;
+  font-size: 18px;
+}
