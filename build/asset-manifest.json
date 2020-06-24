@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/AuthorWrites/static/css/main.5601ab5f.chunk.css",
+    "main.js": "/AuthorWrites/static/js/main.f1823283.chunk.js",
+    "main.js.map": "/AuthorWrites/static/js/main.f1823283.chunk.js.map",
+    "runtime-main.js": "/AuthorWrites/static/js/runtime-main.8c211e5d.js",
+    "runtime-main.js.map": "/AuthorWrites/static/js/runtime-main.8c211e5d.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/AuthorWrites/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.363d05c1.chunk.js": "/AuthorWrites/static/js/2.363d05c1.chunk.js",
+    "static/js/2.363d05c1.chunk.js.map": "/AuthorWrites/static/js/2.363d05c1.chunk.js.map",
+    "index.html": "/AuthorWrites/index.html",
+    "precache-manifest.bcb0207193d65292e9d97ca23c200ffc.js": "/AuthorWrites/precache-manifest.bcb0207193d65292e9d97ca23c200ffc.js",
+    "service-worker.js": "/AuthorWrites/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/AuthorWrites/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.5601ab5f.chunk.css.map": "/AuthorWrites/static/css/main.5601ab5f.chunk.css.map",
+    "static/js/2.363d05c1.chunk.js.LICENSE.txt": "/AuthorWrites/static/js/2.363d05c1.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/AuthorWrites/static/media/Wood Background.fcb3809b.jfif",
+    "static/media/search image.png": "/AuthorWrites/static/media/search image.3c9b5c3f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c211e5d.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.363d05c1.chunk.js",
+    "static/css/main.5601ab5f.chunk.css",
+    "static/js/main.f1823283.chunk.js"
+  ]
+}
